@@ -1,0 +1,26 @@
+[
+  {
+    "childName": "ayoub",
+    "birthdate": "2004-01-25",
+    "parentName": "olfa",
+    "phone": "52334676",
+    "email": "ayoub@gmail.com",
+    "address": "sidi salah rue iin sobeh",
+    "medicalInfo": "",
+    "emergencyContact": "rafik ben hamada",
+    "emergencyPhone": "97334676",
+    "consent": "on"
+  },
+  {
+    "childName": "ayoub",
+    "birthdate": "2004-01-25",
+    "parentName": "olfa",
+    "phone": "52334676",
+    "email": "ayoub@gmail.com",
+    "address": "sidi salah rue iin sobeh",
+    "medicalInfo": "",
+    "emergencyContact": "rafik ben hamada",
+    "emergencyPhone": "97334676",
+    "consent": "on"
+  }
+]
